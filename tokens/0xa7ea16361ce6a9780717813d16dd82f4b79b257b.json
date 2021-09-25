@@ -1,0 +1,13 @@
+{
+    "symbol": "USDE",
+    "name": "EriPay USD",
+    "description": "Native EriPay USD",
+    "website": "https://eripay.net",
+    "communities": {
+        "telegram": "https://t.me/eripay",
+        "youtube": "https://www.youtube.com/channel/UCXZ2rmjM84qS80RCj6vQ1gw",
+        "twitter": "https://twitter.com/eripay_official",
+        "github": "https://github.com/Tafla/tokens",
+    }
+    
+}
