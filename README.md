@@ -1,5 +1,5 @@
 # EriPay Protocol
-EriPay Protocol is a blockchain based Fintech aims to build seamless internationa mobile remmitance for developing countries. 
+EriPay Protocol is a blockchain based Fintech aims to build seamless international mobile remmitance for developing countries. 
 ## How to use it
 There are many ways to use your EriPay Protocol
     1. As payment processor (like: paypal, stripe etc )
