@@ -3,9 +3,9 @@ EriPay Protocol is a blockchain based Fintech aims to build seamless internation
 ## How to use it
 ### There are many ways to use your EriPay Protocol
     - As payment processor (like: paypal, stripe etc )
-    - As value storage ( EriPay Protocol ouns a share for its liquedity named The Eripay Share. On The EriPay Share you can store your value or trade              for other valued stocks on the market.
-    - As remmitance to transfer small ammount of money cross boarder
-    - As payment gatway for accepting and sending bills 
+    - As value storage ( EriPay Protocol owns Liquidity. Liquidity providers earn up to5% fee on all trades proportional to their share of the pool). On          The EriPay Share you can store your value or trade for other valued stocks on the market.
+    - As remmitance to make crossboarder small money transfer in personal or commercial case.
+    - As payment gatway for receiving and sending payments. 
     ...
 ### EriPay Connection
    - Facebook:   https://www.facebook.com/eripayofficial
